@@ -17,7 +17,7 @@ Monitor the status of tasks via a CLI.
 
 
 
---Execution-- 
+## --Execution-- 
 
 Task class: Represents a single task. Stores name, status, priority, timestamps, and contains run() method.
 
@@ -30,7 +30,7 @@ PeriodicTask class: Thread that periodically adds a task to the queue at fixed i
 <br>
 
 
---Technologies / Concepts Used--
+## --Technologies / Concepts Used--
 
 Python 3
 
